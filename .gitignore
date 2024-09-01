@@ -1,3 +1,6 @@
 logs
 LJSpeech-1.1/*
 *.wav
+
+*.log
+*.logs
