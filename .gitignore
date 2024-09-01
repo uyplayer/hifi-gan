@@ -1,6 +1,13 @@
-logs
-LJSpeech-1.1/*
+
+
+
+wavs
 *.wav
 
-*.log
-*.logs
+
+cp_hifigan
+logs
+.idea/
+LJSpeech-1.1/
+__pycache__/
+cp_hifigan/
